@@ -1,4 +1,4 @@
-# kedro_proj
+# kedro_proj using docker as CI 
 
 ## Overview
 
