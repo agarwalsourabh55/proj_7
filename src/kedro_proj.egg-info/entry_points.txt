@@ -1,0 +1,3 @@
+[console_scripts]
+kedro_proj = kedro_proj.__main__:main
+

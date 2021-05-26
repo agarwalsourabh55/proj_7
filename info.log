@@ -1,0 +1,2 @@
+2021-05-26 13:39:09,279 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-26 13:39:09,349 - kedro.framework.session.session - WARNING - Unable to git describe /home/my_sourabh/PycharmProjects/pythonProject7/kedro_proj
